@@ -119,8 +119,6 @@ main nav {
         width: 50%;
     }
     .socil {
-        left: 50%;
-        bottom: 5vh;
-        transform: translateX(-50%);
+        position: relative;
     }
 }
