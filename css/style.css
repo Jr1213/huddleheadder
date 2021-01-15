@@ -94,6 +94,9 @@ main nav {
     body{
         font-size: 10px;
     }
+    main{
+        background-image: url('../images/bg-mobile.svg');
+    }
     .container {
         max-width: 95%;
     }
